@@ -182,6 +182,11 @@ body {
       font-size: 1.7vw;
   }
 
+  .footer {
+    position: fixed;
+    bottom: 0;
+  }
+
   .footer p {
     font-size: 2vw;
   }
